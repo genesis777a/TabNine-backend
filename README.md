@@ -7,4 +7,3 @@
 92633:4541893
 GeobrickGATEaway
 .
->>hello_world
