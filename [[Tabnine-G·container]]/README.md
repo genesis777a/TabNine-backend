@@ -12,5 +12,6 @@ In quarantine until further notice.
 
 Pretrained:
 *Duolingo  |  Math+Logic
+*Wolfram  |  Math+Geometry
 *KhanAcademy  |  LifeSkills
 *Coursera  |  TeachersCampusTraining
