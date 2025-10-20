@@ -10,3 +10,7 @@ In quarantine until further notice.
 
 [Read documentation here](http://tableau.github.io/webdataconnector/).
 
+Pretrained:
+*Duolingo  |  Math+Logic
+*KhanAcademy  |  LifeSkills
+*Coursera  |  TeachersCampusTraining
